@@ -1,4 +1,4 @@
-### Olá👋, Eu sou Ezequiel Mathias 
+### Olá 👋, Eu sou Ezequiel Mathias 
 
 
 - 🔭 A procura do primeiro emprego 

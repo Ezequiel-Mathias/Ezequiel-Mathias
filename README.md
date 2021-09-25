@@ -1,4 +1,4 @@
-### Olá!!, meu nome é Ezequiel
+### Olá!! Meu nome é Ezequiel
 
 
 - 🔭 A procura do primeiro emprego 

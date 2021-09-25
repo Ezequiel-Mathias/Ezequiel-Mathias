@@ -2,8 +2,11 @@
 
 
 - 🔭 A procura do primeiro emprego 
+
 - 📚 Aluno da Instituição SENAI-JANDIRA-SP
+
 - 🎓 Cursando Tecnico De Desinvolvimento De Sistemas
+
 - 💡 Objetivo, ser melhor do que eu já fui ontem
 
 

@@ -1,8 +1,6 @@
 ### Olá👋, Eu sou Ezequiel Mathias 
 
 
-Here are some ideas to get you started:
-
 - 🔭 A procura do primeiro emprego 
 - 📚 Aluno da Instituição SENAI-JANDIRA-SP
 - 🎓 Cursando Tecnico De Desinvolvimento De Sistemas

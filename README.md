@@ -7,7 +7,7 @@
 
 - 🎓 Cursando Tecnico De Desinvolvimento De Sistemas
 
-- 💡 Objetivo, ser melhor do que eu fui ontem 🏄
+- 💡 Objetivo, ser melhor do que eu fui ontem 
 
 
 <div align="center">

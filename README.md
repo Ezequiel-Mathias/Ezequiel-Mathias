@@ -5,7 +5,7 @@
 
 - 📚 Aluno da Instituição SENAI-JANDIRA-SP
 
-- 🎓 Cursando Tecnico De Desinvolvimento De Sistemas
+- 🎓 Cursando Técnico De Desenvolvimento De Sistemas
 
 - 💡 Objetivo, ser melhor do que eu fui ontem 
 

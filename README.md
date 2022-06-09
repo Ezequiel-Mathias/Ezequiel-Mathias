@@ -7,8 +7,7 @@
 
 - 🎓 Cursando Técnico De Desenvolvimento De Sistemas
 
-- 💡 Objetivo, ser melhor do que eu fui ontem 
-
+-  Estatisticas e linguagens que custumo usar:
 
 <div align="center">
   <a href="https://github.com/Ezequiel-Mathias">

@@ -29,12 +29,21 @@
   
   ##
   
+  
   <div>
   
   <a href = "mailto:ezequielmathias32@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/ezequiel-mathias-104092227" target="_blank"><img align="left" alt="Ezequiel LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-    </div>
+ </div>
+ 
+  <div>
+ <img align="left" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+ </div>
+ 
+
+    
+     
 
   
     

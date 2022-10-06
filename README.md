@@ -7,7 +7,7 @@
 
 #### 📚 3/3
 
-### Estatisticas e linguagens que custumo usar:
+Estatisticas e linguagens que custumo usar:
 
 <div align="center">
   <a href="https://github.com/Ezequiel-Mathias">

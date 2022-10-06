@@ -3,7 +3,7 @@
 
 - 👨‍💻 Aluno da Instituição SENAI-JANDIRA-SP
 
-- 🎓 Cursando Técnico De Desenvolvimento De Sistemas
+- 🎓 Técnico De Desenvolvimento De Sistemas
 
 - 📚 3/3
 

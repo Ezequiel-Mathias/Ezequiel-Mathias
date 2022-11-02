@@ -1,4 +1,4 @@
-## Olá, como vai ?
+## <h1 align="center">Olá, como vai ?</h1>
   
 
 #### 👨‍💻 Aluno da Instituição SENAI-JANDIRA-SP

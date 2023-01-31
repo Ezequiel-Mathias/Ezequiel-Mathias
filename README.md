@@ -1,12 +1,5 @@
-## <h1 align="center">Olá, como vai ?</h1>
+# <h1 align="center">Olá, como vai ?</h1>
   
-
-#### 👨‍💻 Aluno da Instituição SENAI-JANDIRA-SP
-
-#### 🎓 Técnico De Desenvolvimento De Sistemas
-
-#### 📚 3/3
-
 #### Estatisticas e linguagens que custumo usar:
 
 <div align="center">

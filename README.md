@@ -1,6 +1,6 @@
-# <h1 align="center">Olá, como vai ?</h1>
+# <h1 align="center">Hello, how are you ? ?</h1>
   
-#### Estatisticas e linguagens que custumo usar:
+#### Statistics and languages I use:
 
 <div align="center">
   <a href="https://github.com/Ezequiel-Mathias">

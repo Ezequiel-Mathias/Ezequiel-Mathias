@@ -1,6 +1,6 @@
  <h1 align="center">Hello, how are you ? ?</h1>
  
- ### Want to see more details of my projects? access my personal <a href="https://github.com/Ezequiel-Mathias"> portfolio !</a>
+ ### Want to see more details of my projects? access my personal <a href="https://github.com/Ezequiel-Mathias" target="_blank"> portfolio !</a>
   
 #### Statistics and languages I use:
 

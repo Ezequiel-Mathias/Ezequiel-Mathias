@@ -24,15 +24,6 @@
   ##
   
  
- 
-  <div align="center">
-  <img src="https://i.pinimg.com/originals/02/49/ef/0249efe4cc8e3c20094fc2d20aa58912.gif" width="500" height="320">
- 
-   <a href = "mailto:ezequielmathias32@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/ezequiel-mathias-104092227" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="Ezequiel LinkedIN" width="26px"   />
-</a>
- </div>
- 
 
     
      
